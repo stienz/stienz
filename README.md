@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stienz
-- 👀 I’m interested in Data.
+- 👀 I’m interested in data.
 - 🌱 I’m currently learning Terraform, Purview, Data Factory and Databricks. 
 
 <!---
