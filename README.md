@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stienz
-- 👀 I’m interested in data.
-- 🌱 I’m currently learning Terraform, Purview, Data Factory and Databricks. 
+- 👀 I’m interested in data ecosystems and growing them. 
 
 <!---
 stienz/stienz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
